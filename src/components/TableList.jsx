@@ -8,7 +8,7 @@ export default function TableList() {
 
   const coffe = 3.0;
   const chantily = 1.5;
-  const juice = 6.5;
+  const juice = 6.2;
   const sanduiche = 6.5;
   const queijo = 2.0;
   const salgado = 7.25;
